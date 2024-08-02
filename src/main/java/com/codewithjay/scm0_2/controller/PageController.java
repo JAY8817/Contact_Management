@@ -32,7 +32,7 @@ public class PageController {
 
     public String home(Model model) {
 
-        System.out.println("Home is on");
+        System.out.println("this is a Home page  ");
         return "home";
     }
 
